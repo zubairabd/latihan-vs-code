@@ -1,2 +1,5 @@
 belajar vscode untuk git seru
 tambah tulisan satu lagi
+baris ketiga
+test
+baris selanjutnay

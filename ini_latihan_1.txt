@@ -3,3 +3,4 @@ tambah tulisan satu lagi
 baris ketiga
 test
 baris selanjutnay
+tambah dari gui

@@ -5,3 +5,4 @@ test
 baris selanjutnay
 tambah dari gui
 tambah dari branch
+tambah line 8
